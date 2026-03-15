@@ -3,8 +3,7 @@
 Information Systems and Business Strategy
 
 ## Education
-Bachelor of Arts in Management
-American Military University
+BA in Management, American Military University
 
 ## Interests
 - Information Systems Management
