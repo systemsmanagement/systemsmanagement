@@ -1,18 +1,18 @@
-Daniel
+# Daniel
 
 Information Systems and Business Strategy
 
-Education
+## Education
 Bachelor of Arts in Management
 American Military University
 
-Interests
+## Interests
 - Information Systems Management
-- IT Intendance and Strategy
+- Systems Intendance and Strategy
 - Organizational Strategy
 
-Projects
+## Projects
 See repositories for projects and research artifacts
 
-Website
+## Website
 informationsystems.xyz
