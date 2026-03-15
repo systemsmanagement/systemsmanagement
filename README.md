@@ -1,16 +1,18 @@
-## Hi there 👋
+Daniel
 
-<!--
-**systemsmanagement/systemsmanagement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems and Business Strategy
 
-Here are some ideas to get you started:
+Education
+Bachelor of Arts in Management
+American Military University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+- Information Systems Management
+- IT Intendance and Strategy
+- Organizational Strategy
+
+Projects
+See repositories for projects and research artifacts
+
+Website
+informationsystems.xyz
