@@ -4,6 +4,7 @@ Information Systems and Business Strategy
 
 ## Education
 BA in Management
+
 American Military University
 
 ## Interests
