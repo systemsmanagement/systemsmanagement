@@ -6,9 +6,9 @@ Information Systems and Business Strategy
 BA in Management, American Military University
 
 ## Interests
+- Business Analysis
 - Information Systems Management
 - Strategic Management
-- Strategic Planning
 
 ## Projects
 See repositories for projects and research artifacts
