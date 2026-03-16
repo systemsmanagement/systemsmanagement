@@ -8,7 +8,7 @@ BA in Management, American Military University
 ## Interests
 - Information Systems Management
 - Strategic Management
-- Organizational Strategy
+- Strategic Planning
 
 ## Projects
 See repositories for projects and research artifacts
