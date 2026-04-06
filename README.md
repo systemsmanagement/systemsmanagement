@@ -1,6 +1,6 @@
 # Daniel Cabrera
 
-Information Systems and Business Strategy
+Managing Director, Systems Management LLC
 
 ## Education
 BA in Management\
