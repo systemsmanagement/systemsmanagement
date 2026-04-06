@@ -1,4 +1,4 @@
-# Daniel
+# Daniel Cabrera
 
 Information Systems and Business Strategy
 
