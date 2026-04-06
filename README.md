@@ -1,6 +1,7 @@
 # Daniel Cabrera
 
-Managing Director, Systems Management LLC
+Managing Director
+Systems Management LLC
 
 ## Education
 BA in Management\
