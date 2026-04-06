@@ -1,6 +1,6 @@
 # Daniel Cabrera
 
-Managing Director
+Managing Director\
 Systems Management LLC
 
 ## Education
