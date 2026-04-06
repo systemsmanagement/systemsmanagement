@@ -15,4 +15,4 @@ American Military University
 See repositories for projects and research artifacts
 
 ## Website
-informationsystems.xyz
+systemsmanagement.xyz
